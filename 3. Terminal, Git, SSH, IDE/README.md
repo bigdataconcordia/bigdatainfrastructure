@@ -111,7 +111,7 @@ sudo chmod 600 ~/.ssh/yourkeyname.pem
 
 Now we Use the Key to Access Our Remote Server's Own Terminal Securely
 ```
-ssh -i ~/.ssh/yourkeyname.pem ubuntu@YOURSERVERIP
+ssh -i ~/.ssh/yourkeyname.pem ubuntu@YOUR.SERVER.IP.12
 IP is visible at: https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances:sort=instanceState
 ```
 
