@@ -1,13 +1,13 @@
 # Using the Terminal
 
-##MAC OS
+## MAC OS
 Macs have an amazing terminal
 ```
 cmd + spacebar
 terminal
 ```
 
-##Windows
+## Windows
 Windows sucks
 
 Download Git
@@ -20,7 +20,7 @@ Follow these Steps in the Installation Wizard:
 http://www.techoism.com/how-to-install-git-bash-on-windows/
 ```
 
-#Using git for Version Control
+# Using git for Version Control
 
 ## Installing git
 
