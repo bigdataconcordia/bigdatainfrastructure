@@ -59,7 +59,7 @@ console.log("Hi")
 ## Commit Change to Project to Remote repository
 
 ```
-cd ~/project/nodejs-twitter
+cd ~/projects/nodejs-twitter
 ```
 
 ## Add All New Files for Git to Track
