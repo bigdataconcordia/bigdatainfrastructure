@@ -22,8 +22,9 @@ app.js
 
 Install the Node Package for Twitter Streams using the NPM (node package manager) from the Project Folder (nodejs-twitter)
 ```
-npm install twitter-stream-api
+npm install twitter-stream-api --save
 ```
+Note: --save makes it that you save a package.json file locally, so that the next time all you need to have is your package.json file saved to your git and typing npm install will install everything you need
 
 Copy the Content from the Course App.js file to Yours
 
